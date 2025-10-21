@@ -1,0 +1,1 @@
+python3 -c "import os; print(os.getenv('USER'))"
