@@ -1,0 +1,1 @@
+python3 -c "import secrets,string; [print(''.join(secrets.choice(string.ascii_letters+string.digits) for _ in range(16))) for _ in range(5)]"
